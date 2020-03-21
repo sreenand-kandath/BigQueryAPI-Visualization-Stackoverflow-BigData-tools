@@ -1,3 +1,2 @@
 # BigQueryAPI-Visualization-Stackoverflow-BigData-tools
-Creating an interactive visualisation on the the trend of common BigData tools in StackOverflow, using the StackOverflow data accessed through Google BigQuery platform.
-Stack.mov is the Visualized graph
+Created an interactive animated visualisation (racing bar char) on trending Big data tools in Stack Overflow, using the StackOverflow data queried through Google BigQuery platform and visualised using python libraries.
